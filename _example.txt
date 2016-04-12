@@ -1,0 +1,1 @@
+B:\projects\iTunesMusicToSQLite\bin\Debug>iTunesMusicToSQLite.exe "datum.db" "James Skemp's 80 gig"
